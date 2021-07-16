@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/kkamdooong/go-restful-api-example v0.0.0-20170414163541-89a1df358719 h1:wBpbz4Zm5H9gZrPR3/yLqLYBe0FiQ4NdiFFhfIDvVys=
+github.com/kkamdooong/go-restful-api-example v0.0.0-20170414163541-89a1df358719/go.mod h1:p511fTADjiUhfBRMWqBql3f4MjwWU2vtuv3ZqD0yBhI=
